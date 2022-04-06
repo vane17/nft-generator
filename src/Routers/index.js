@@ -8,7 +8,7 @@ import {
 
 import {Home} from '../Home';
 import {App} from '../App';
-
+import {Images} from '../Images';
 
 
 function Routers() {
@@ -18,7 +18,8 @@ function Routers() {
         <Routes>
               <Route exact path="/" element={<Home/>}/>
               <Route exact path="/app" element={<App/>}/>
-              
+              <Route exact path="/images" element={<Images/>}/>
+
         </Routes>
       </Router>
   </>
