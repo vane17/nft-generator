@@ -1,3 +1,64 @@
 .collection{
     width: 55%;
 }
+
+.collection-title{
+    color: rgb(17, 24, 39);
+   
+    font-size:2.4rem;
+}
+
+.collection-title-span{
+    color:rgb(79, 70, 229);
+    font-size:1.6rem;
+    font-weight: 400;
+}
+
+.collection__view{
+    margin-top: 32px;
+    display: flex;
+    justify-content: center;
+}
+
+.view{
+    color: rgb(255, 255, 255);
+    font-size: 2.4rem;
+    font-weight:300;
+   
+    height: 163px;
+    width: 143px;
+    margin: 0 10px;
+    border-radius: 15px;
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.pink{
+    background-color: rgb(222, 164, 228);
+}
+
+.green{
+    background-color: rgb(173, 241, 186);
+}
+
+.blue{
+    background-color: rgb(173, 224, 241);
+}
+
+.form{
+    margin-top: 24px;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+}
+
+.form-group--title{
+    color: rgb(17 24 39);
+    font-weight: 700;
+    font-size:1.4rem;
+
+}

@@ -3,20 +3,6 @@
     
 }
 
-.layers__title{
-    color: rgb(17, 24, 39);
-   
-    font-size:2.4rem;
-    display:flex;
-
-}
-
-.layers__strong{
-    font-weight: 700;
-    margin-right: 10px;
-   
-}
-
 .layers__button{
     color: rgb(79 70 229);
     border-style: dashed;
