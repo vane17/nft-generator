@@ -1,4 +1,5 @@
 import React from 'react';
+import UploadForm from '../../comps/UploadForm';
 import './footer.css'
 
 
@@ -40,7 +41,7 @@ function Footer() {
                         <p>Blog</p>
                         <p>Video tutorial</p>
                         <p>preguntas frecuentes</p>
-                        
+
                 </section>
             </section>
 
@@ -49,7 +50,7 @@ function Footer() {
             <p>All rights reserved © The NFT Generator</p>
             <p>Términos y Privacidad</p>
         </div>
-      
+    <UploadForm/>
     </div>
   );
 }

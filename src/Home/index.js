@@ -35,7 +35,7 @@ function Home() {
             </h1>
             <p className="section__gray">¡Genera tantas colecciones NFT como desee!</p>
             <div>
-                <Link to="/app" className="section__button">Genere su coleccion NFT 
+                <Link to="/app" className="section__button">Genere su coleccion NFT
                 <span class="material-icons-outlined arrow">arrow_forward</span></Link>
                 <p className="section__paragraph">No se requiere cuenta.</p>
             </div>
@@ -43,9 +43,11 @@ function Home() {
             <Button/>
         </section>
 
-    
-        
+
+
     </div>
+
+
   );
 }
 
