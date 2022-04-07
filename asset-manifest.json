@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nft-generator/static/css/main.4ee0c69c.css",
-    "main.js": "/nft-generator/static/js/main.15932602.js",
+    "main.css": "/nft-generator/static/css/main.4ec345f8.css",
+    "main.js": "/nft-generator/static/js/main.2a4d7fde.js",
     "index.html": "/nft-generator/index.html",
-    "main.4ee0c69c.css.map": "/nft-generator/static/css/main.4ee0c69c.css.map",
-    "main.15932602.js.map": "/nft-generator/static/js/main.15932602.js.map"
+    "main.4ec345f8.css.map": "/nft-generator/static/css/main.4ec345f8.css.map",
+    "main.2a4d7fde.js.map": "/nft-generator/static/js/main.2a4d7fde.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ee0c69c.css",
-    "static/js/main.15932602.js"
+    "static/css/main.4ec345f8.css",
+    "static/js/main.2a4d7fde.js"
   ]
 }
