@@ -5,8 +5,8 @@ import {ListItem} from './ListItem/index.js'
 import './layers.css'
 
 const list = [
-  {text:'cortar cebolla', completed: false},
-  {text:'cortar Flase', completed: false},
+  {text:'Background', completed: false},
+  {text:'Face', completed: false},
 ];
 
 
@@ -14,7 +14,7 @@ const list = [
 
 function Layers() {
   const onClickButton = () => {
-    alert('aqui se habre modal')
+    alert('aqui se abre modal')
   }
 
 
