@@ -16,7 +16,7 @@ function Routers() {
     <>
       <Router>
         <Routes>
-              <Route exact path="/" element={<Home/>}/>
+              <Route exact path="/nft-generator" element={<Home/>}/>
               <Route exact path="/app" element={<App/>}/>
               <Route exact path="/images" element={<Images/>}/>
 
