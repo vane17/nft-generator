@@ -21,7 +21,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +43,5 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepage": "https://vane17.github.io/nft-generator"
+  "homepage": "https://vane17.github.io/nft-generator/"
 }
